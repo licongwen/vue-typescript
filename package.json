@@ -1,6 +1,6 @@
 {
   "name": "ts-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "use typescript in vue-cli",
   "author": "'licongwen' <'649091795@qq.com'>",
   "private": true,
